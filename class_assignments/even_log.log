@@ -1,0 +1,8 @@
+2021-06-15 16:30:59,042 root ERRORcant enter number greater than 100
+2021-06-15 16:42:40,707 root WARNINGThis is finally logged
+2021-06-15 16:43:17,894 root WARNINGThis is finally logged
+2021-06-15 16:44:29,482 root WARNINGThis is finally logged
+2021-06-15 16:47:01,874 root WARNINGThis is finally logged
+2021-06-15 16:47:18,178 root ERRORuser entered a value greater than 100
+2021-06-15 16:47:18,179 root CRITICALthe error has been saved
+2021-06-15 16:47:18,179 root WARNINGThis is finally logged
